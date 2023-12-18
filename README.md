@@ -34,7 +34,7 @@ Welcome to the  repository for AIL411 Deep Learning Lab programs! This repositor
 
 ## YouTube Links
 
-1. [Outlier Detection Methods](#https://youtu.be/C2Cdgg6MMlk)
+1. [Outlier Detection Methods](https://youtu.be/C2Cdgg6MMlk)
 2. [Recurrent Neural Networks (RNN), LSTM, GRU]([#](https://youtu.be/b4DtjrThUqY))
 3. [Time Series Forecasting]([#](https://youtu.be/zDjFe1ge74E))
 4. [Transfer Learning using Pretrained VGG19]([#](https://youtu.be/CKQvBVy-pBM))
