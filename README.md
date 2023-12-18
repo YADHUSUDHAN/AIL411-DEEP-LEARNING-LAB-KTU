@@ -1,6 +1,6 @@
 # AIL411-DEEP-LEARNING-LAB-KTU
 PROGRAMS OF DEEP LEARNING LAB (AIL411) IN KTU UNIVERSITY
-Welcome to the  repository for AIL411 Deep Learning Lab programs! This repository contains Jupyter Notebook files and datasets for various deep learning tasks covered in the lab. Each program is accompanied by detailed explanations and demonstrations available on our [Yadhu Sudha Vlogz](https://youtube.com/playlist?list=PLB98_3_Ebdob1BQMBoE2dhoGQ8PuZCiUG&si=NAEjz6_w_Wa1Mc73).
+Welcome to the  repository for AIL411 Deep Learning Lab programs! This repository contains Jupyter Notebook files and datasets for various deep learning tasks covered in the lab. Each program is accompanied by detailed explanations and demonstrations available on our [Yadhu Sudhan Vlogz](https://youtube.com/playlist?list=PLB98_3_Ebdob1BQMBoE2dhoGQ8PuZCiUG&si=NAEjz6_w_Wa1Mc73).
 
 ## Programs Overview
 
