@@ -35,12 +35,12 @@ Welcome to the  repository for AIL411 Deep Learning Lab programs! This repositor
 ## YouTube Links
 
 1. [Outlier Detection Methods](https://youtu.be/C2Cdgg6MMlk)
-2. [Recurrent Neural Networks (RNN), LSTM, GRU]([#](https://youtu.be/b4DtjrThUqY))
-3. [Time Series Forecasting]([#](https://youtu.be/zDjFe1ge74E))
-4. [Transfer Learning using Pretrained VGG19]([#](https://youtu.be/CKQvBVy-pBM))
-5. [Feed Forward Neural Network](#https://youtu.be/t5xp-zzRL_s)
-6. [Weight Initialization and Regularization](#https://youtu.be/nUllMCLtm0k)
-7. [CNN Classification](#https://youtu.be/pKfSbT3mSlE)
-8. [RNN](#https://youtu.be/gBaDa4qLOfc)
+2. [Recurrent Neural Networks (RNN), LSTM, GRU](https://youtu.be/b4DtjrThUqY)
+3. [Time Series Forecasting](https://youtu.be/zDjFe1ge74E)
+4. [Transfer Learning using Pretrained VGG19](https://youtu.be/CKQvBVy-pBM)
+5. [Feed Forward Neural Network](https://youtu.be/t5xp-zzRL_s)
+6. [Weight Initialization and Regularization](https://youtu.be/nUllMCLtm0k)
+7. [CNN Classification](https://youtu.be/pKfSbT3mSlE)
+8. [RNN](https://youtu.be/gBaDa4qLOfc)
 
 Feel free to explore, learn, and contribute to this repository. Happy coding!
